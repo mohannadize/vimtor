@@ -1,0 +1,82 @@
+---
+title: "Significance of Medical History in Dental Clinics"
+author: "Mohannad Hisham"
+output: word_document
+bibliography: bib.bib
+---
+
+
+
+According to @rania16, Medical History can be classified into:
+
+# Dental History
+
+#### Components of Routine Dental History:  
+1. Attitude of patient towards previous dentist and/or treatment.
+2. Past Dental Care.
+    a) Routine dental care*
+    b) Episodic dental care*
+    c) Symptomatic dental care*
+3. Periodontal therapy* 
+4. Local Anaesthesia
+    a) General anxiety
+    b) Syncope
+    c) Allergy
+5. Extraction*
+6. Missing Teeth
+7. Filling Restorations*
+8. Root canal Fillings
+9. Removable Prosthetic Appliance
+10. Fixed Bridges
+11. Orthodontic Therapy
+12. Surgical Procedures
+13. TMJ Therapy
+14. Radiographs
+
+# Medical History
+1. Past and present medical history*
+    a) Who are medically complex patients
+        i) Patients with a known medical condition
+            - May require hospitalization
+            - Diseases that require premedication
+            - Precautions
+            - Diseases that give oral manifestations
+        ii) Patients with an undetected medical condition
+            - unaware of serious medical condition
+            - uncover an important medical condition
+            - Review of systems
+        iii) Patients recovering from a medical condition
+            - Predisposed to medical complication from dental treatment
+            - Cardiac valve replacement (endocarditis)
+        iv) Patients taking medication
+            - Complication of medications
+            - Medications as a clue for medical condition
+            - Medications may produce oral manifestations
+            - Drugs may need adjustment during dental treatment.
+            - Drugs interaction between medications taken by the patient and prescribed by the dentist.
+            - Drugs may induce allergic reactions
+        v) Patients following a special diet
+        vi) Patients in need of special dental care
+            - prior to receiving medical care as chemotherapy or radiotherapy
+            - to prevent serious medical condition
+        vii) Patients that may transmit infection
+    b) History of Infections and Immunizations
+    c) History of Hospitalization/Surgery
+    d) History of  Radiotherapy
+    e) Pregnancy
+    f) Other Conditions
+2. A review of systems
+    a) Anemia
+    b) Coronary Heart Diseases
+    c) Diabetes Mellitus
+    d) Hyperthyroidism
+3. Social history
+    a) Personal habit
+    b) Smoking
+    c) Heavy Alcohol use
+4. Family history
+    a) Hereditary diseases
+    b) Infectious diseases
+
+
+# References
