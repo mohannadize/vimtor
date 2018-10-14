@@ -1,0 +1,32 @@
+---
+title: Dafa Frames in R
+author: Mohannad Hisham 
+---
+
+## Defining Vectors
+Firstly we begin by making data vectors.  
+Vectors can be made simply as this example  
+```{r}
+names = c("Mohannad","Essam","Abood","Mafs")
+school_marks = c(98,99,100,96)
+qodorat_marks = c(98,94,96,91)
+```
+
+## Defining Data Frame
+Data Frames are defined like this  
+```{r}
+students = data.frame(names,school_marks,qodorat_marks);
+```
+```{r echo = FALSE, results='asis'}
+library(knitr)
+kable(students)
+```
+
+## Making a new column with computed grades
+```{r}
+students$computed_grades = students$school_marks * 0.7 + students$qodorat_marks * 0.3
+```
+```{r echo = FALSE, results='asis'}
+library(knitr)
+kable(students)
+```

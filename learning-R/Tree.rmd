@@ -5,6 +5,9 @@ output: word_document
 bibliography: bib.bib
 ---
 
+\begin{abstract}
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus accusamus repellendus praesentium, dicta quam sapiente quod, nulla nihil ad nemo sed velit iusto voluptatem placeat labore exercitationem necessitatibus vero qui?
+\end{abstract}
 
 
 According to @rania16, Medical History can be classified into:
